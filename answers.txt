@@ -1,0 +1,5 @@
+Q1: Why might we consider using Git?
+
+Answer: Version control is an extremely important concept in not only team developing situations but also in
+personal management. In my own experience (using Github Desktop) it has allowed me to streamline multiple projects
+at the same time and handle their version controls and when I wanted to push or pull certain items.
