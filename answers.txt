@@ -1,0 +1,5 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: No joke, all of them. Personally I developed an ising model simuation and using pandas and mathplotlib, I
+was able to ease parameterization, make a visualizer for myself, as well as monitor speedups on a thousand to million
+simulation situation.
