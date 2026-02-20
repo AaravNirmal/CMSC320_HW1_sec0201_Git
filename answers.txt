@@ -11,3 +11,6 @@ Answer: No joke, all of them. Personally I developed an ising model simuation an
 was able to ease parameterization, make a visualizer for myself, as well as monitor speedups on a thousand to million
 simulation situation.
 >>>>>>> q2
+Q3: What is the difference between Merging and Rebasing?
+Git merge combines branches by creating a new "merge commit" but cluttering. Rebase tries to make a linear history 
+of what just happened which tends to be safer locally.
