@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 Q1: Why might we consider using Git?
 
 Answer: Version control is an extremely important concept in not only team developing situations but also in
 personal management. In my own experience (using Github Desktop) it has allowed me to streamline multiple projects
 at the same time and handle their version controls and when I wanted to push or pull certain items.
+=======
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: No joke, all of them. Personally I developed an ising model simuation and using pandas and mathplotlib, I
+was able to ease parameterization, make a visualizer for myself, as well as monitor speedups on a thousand to million
+simulation situation.
+>>>>>>> q2
